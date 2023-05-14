@@ -22,7 +22,7 @@
 </body>
 <script>
 	let timeout = setTimeout(function() {
-		window.location.href = 'https://pultapp.arki.hu/';
+		window.location.href = 'http://localhost/beadand%c3%b3/php-sze/';
 	}, 4000);
 </script>
 <style>

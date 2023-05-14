@@ -2,7 +2,7 @@
   require_once 'header.php';
   session_start();
   if (isset($_SESSION['id'])) {
-      ?>
+?>
 
 <nav class="navbar navbar-expand-lg text-white p-0">
 	<div class="container-fluid bottom">

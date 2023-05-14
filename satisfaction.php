@@ -57,7 +57,7 @@ if (isset($_SESSION['id'])) {
 
 								</div>
 								<div class="d-flex justify-content-end align-items-center">
-									<a href="https://pultapp.arki.hu/"
+									<a href="http://localhost/beadand%c3%b3/php-sze/"
 										class="me-2 justify-content-end align-items-end mt-3 btn btn-outline-light blurmodals  ms-auto button"
 										name="restart"><strong>Újrakezd</strong>&nbsp;<svg
 											xmlns="http://www.w3.org/2000/svg" width="20" height="20"
